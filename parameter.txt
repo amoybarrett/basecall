@@ -1,0 +1,21 @@
+CH-" "
+ll-long long
+db-double
+PI-3.1214...
+pre-unsigned short int
+RG-90
+=======================================
+step=249, 2
+r = 9
+rg = 10
+precision = 1
+edge = 3
+dnb = 122
+thd = 1,0.6
+qlevel = 0.999
+=======================================
+bsize = 4
+prefix = 4
+wsize = 9
+winsize = 9
+gsize = 3

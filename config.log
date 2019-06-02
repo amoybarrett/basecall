@@ -1,0 +1,9 @@
+-- Configuring done
+-- Generating done
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CGATOOLS_IS_PIPELINE
+
+
+-- Build files have been written to: /home/xuweibin/basecall/mine/basecall_module_900

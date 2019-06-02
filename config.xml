@@ -1,0 +1,37 @@
+<?xml version="1.0"?>  
+<config_Information version="1.0">  
+<Config_Data_block update="0">  
+<ScanSpeed>100</ScanSpeed>  
+<DeviceType type="2">  
+<Device_Counts>1</Device_Counts>  
+<Item_Counts>6</Item_Counts>  
+<Item_list>  
+<ItemInfo NO="1">  
+    <ItemEvenFlag>1</ItemEvenFlag>  
+    <ItemID>CPU</ItemID>  
+    <KeyWord></KeyWord>  
+</ItemInfo>  
+<ItemInfo NO="2">  
+    <ItemID>MEM</ItemID>  
+    <KeyWord></KeyWord>  
+</ItemInfo>  
+<ItemInfo NO="3">  
+    <ItemID>DISK_C_FREE</ItemID>  
+    <KeyWord>C</KeyWord>  
+</ItemInfo>  
+<ItemInfo NO="4">  
+    <ItemID>RunTime</ItemID>  
+    <KeyWord></KeyWord>  
+</ItemInfo>  
+<ItemInfo NO="5">  
+    <ItemID>MainProcess0</ItemID>  
+    <KeyWord>test.exe</KeyWord>  
+</ItemInfo>  
+<ItemInfo NO="6">  
+    <ItemID>NetPing</ItemID>  
+    <KeyWord>127.0.0.1</KeyWord>  
+</ItemInfo>  
+</Item_list>  
+</DeviceType>  
+</Config_Data_block>  
+</config_Information> 
